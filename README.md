@@ -1,4 +1,4 @@
-# Dotnet 5.0 RC Alpine docker images
+# Dotnet 5.0 Alpine docker images
 
 ## compile
 `bash
